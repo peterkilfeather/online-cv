@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Peter Kilfeather
+    name: Peter Kilfeather DPhil MRCVS
     tagline: Bioinformatician and Director of Oxford Omics Ltd
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -31,35 +31,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a bioinformatician and laboratory scientist with experience 
+      in a range of omics and big data applications. I work at the University 
+      of Oxford as a research scientist and I direct Oxford Omics Ltd which provides
+      bioinformatics support, analysis and offers bespoke tuition. 
+      analysis and education core
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: DPhil in Physiology, Anatomy and Genetics
+      university: University of Oxford
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        I applied 
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: Veterinary Medicine
       university: Bristol University
-      time: 2007 - 2011
+      time: 2011 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I qualified as a Veterinary Surgeon in 2017 and teach the veterinary 
+        components of the Home Office Personal License course.
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
