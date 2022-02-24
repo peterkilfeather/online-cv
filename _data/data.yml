@@ -33,20 +33,34 @@ career-profile:
     summary: |
       I am a bioinformatician and laboratory scientist with experience 
       in a range of omics and big data applications. I work at the University 
-      of Oxford as a research scientist and I direct Oxford Omics Ltd which provides
-      bioinformatics support, analysis and offers bespoke tuition. 
-      analysis and education core
-      
+      of Oxford and I direct Oxford Omics Ltd, which provides
+      bioinformatics support, analysis and offers bespoke tuition. I am always
+      interested in new projects and collaborations, so please don't hesitate
+      to get in touch.
+
+Expertise:
+    - role: Director
+      time: 2020 - Present
+      company: Oxford Omics Ltd
+      details: |
+        I direct Oxford Omics Ltd, a contract bioinformatics consultancy company
+        that aims to provide scientists with meaningful results from 'big data'.
+        We offer analysis, technical support and tuition in a range of areas, 
+        including but not limited to:
+          - CRISPR technology: Genome-wide and targeted screening
+          - RNA-Seq Analysis (Bulk, Single-cell and Spatial)
+          - Machine learning methods
+          - Genomic analyses
+          
 education:
     - degree: DPhil in Physiology, Anatomy and Genetics
       university: University of Oxford
       time: 2017 - 2021
       details: |
-        I applied 
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I applied spatial, single-cell and single-cell-type RNA-Seq to study 
+        the properties of dopaminergic neurons in health, age and disease. This
+        work has revealed fundamental properties of dopaminergic neurons, vulnerable
+        in Parkinson's disease.
           - Bullet point
           - Bullet point
     - degree: Veterinary Medicine
